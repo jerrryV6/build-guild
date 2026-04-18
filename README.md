@@ -1,1 +1,2 @@
-# build-guild
+# build-guild-BHARATPUR
+I made a simple Blinky Board in EasyEDA by designing a basic circuit with a microcontroller, an LED, and a resistor. I placed the components on the schematic, connected the LED to a digital output pin through a current-limiting resistor, and added power and ground connections for proper operation. Then I switched to the PCB layout, arranged the parts neatly, and routed the traces to match the schematic. After checking for errors, I generated the Gerber files for manufacturing. When powered, the microcontroller runs a simple program that turns the LED on and off repeatedly, creating the blinking effect.
